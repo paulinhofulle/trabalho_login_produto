@@ -7,12 +7,6 @@ require_once('./Validacao/Bd.php');
 <head>
     <meta charset="UTF-8">
     <title>Alteração</title>
-
-    <style>
-
-        
-
-    </style>
 </head>
 <body>
     
